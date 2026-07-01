@@ -1,0 +1,44 @@
+==============================
+        ATM MENU
+==============================
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+
+Enter Choice: 1
+
+Current Balance : ₹10000.0
+
+==============================
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+
+Enter Choice: 2
+
+Enter Amount to Deposit: 5000
+
+Deposit Successful.
+Updated Balance : ₹15000.0
+
+==============================
+Enter Choice: 3
+
+Enter Amount to Withdraw: 3000
+
+Withdrawal Successful.
+Remaining Balance : ₹12000.0
+
+==============================
+Enter Choice: 3
+
+Enter Amount to Withdraw: 15000
+
+Insufficient Balance.
+
+==============================
+Enter Choice: 4
+
+Thank You for Using ATM.

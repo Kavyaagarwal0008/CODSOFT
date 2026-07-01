@@ -1,0 +1,7 @@
+========== Currency Converter ==========
+
+Enter Base Currency : USD
+Enter Target Currency : INR
+Enter Amount : 100
+
+100.00 USD = 8333.33 INR

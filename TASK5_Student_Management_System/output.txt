@@ -1,0 +1,17 @@
+========== STUDENT MANAGEMENT ==========
+
+1. Add Student
+2. Remove Student
+3. Search Student
+4. Display All Students
+5. Edit Student
+6. Save Data
+7. Exit
+
+Enter Choice : 1
+
+Roll No : 101
+Name : Kavya
+Grade : A
+
+Student Added Successfully.
